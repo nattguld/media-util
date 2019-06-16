@@ -1,7 +1,6 @@
 package com.nattguld.media;
 
 import java.awt.Color;
-import java.awt.Font;
 import java.io.File;
 
 import com.nattguld.data.workspace.Workspace;
@@ -14,8 +13,6 @@ import com.nattguld.media.video.ProductionType;
 import com.nattguld.media.video.VideoInfo;
 import com.nattguld.media.watermarking.WatermarkColor;
 import com.nattguld.media.watermarking.WatermarkPosition;
-import com.nattguld.media.watermarking.WatermarkType;
-import com.nattguld.util.media.MediaOperations;
 import com.nattguld.util.media.edit.impl.ImageResize;
 
 /**
