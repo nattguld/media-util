@@ -9,10 +9,10 @@ import com.nattguld.media.ffmpeg.FetchVideoInfo;
 import com.nattguld.media.tasks.impl.Slideshows;
 import com.nattguld.media.tasks.impl.VideoCrop;
 import com.nattguld.media.tasks.impl.VideoTransform;
-import com.nattguld.media.video.ProductionType;
 import com.nattguld.media.video.VideoInfo;
 import com.nattguld.media.watermarking.WatermarkColor;
 import com.nattguld.media.watermarking.WatermarkPosition;
+import com.nattguld.util.media.ProductionType;
 import com.nattguld.util.media.edit.impl.ImageResize;
 
 /**

@@ -1,5 +1,7 @@
 package com.nattguld.media.video;
 
+import com.nattguld.util.media.ProductionType;
+
 /**
  * 
  * @author randqm

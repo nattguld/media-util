@@ -8,9 +8,9 @@ import java.util.Objects;
 import com.nattguld.data.workspace.Workspace;
 import com.nattguld.media.ffmpeg.FFmpegEncode;
 import com.nattguld.media.video.ImageSequenceBuilder;
-import com.nattguld.media.video.ProductionType;
 import com.nattguld.util.files.FileOperations;
 import com.nattguld.util.maths.Maths;
+import com.nattguld.util.media.ProductionType;
 import com.nattguld.util.media.edit.impl.ImageResize;
 import com.nattguld.util.text.TextUtil;
 
